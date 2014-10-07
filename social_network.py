@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import os
 import matplotlib.pyplot as plt
 import graph
